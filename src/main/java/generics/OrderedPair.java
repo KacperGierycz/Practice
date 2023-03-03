@@ -1,6 +1,6 @@
 package generics;
 
-public class OrderedPair<K, V> implements Pair<K, V> {
+public class OrderedPair<K, V> implements PairX<K, V> {
 
     private K key;
     private V value;
