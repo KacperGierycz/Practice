@@ -26,3 +26,9 @@ Q
 !src/main/java/jfx/HelloWorld.java,1\0\10dafcad3f217fd98a89f47c48e7c5790017476e
 f
 6src/main/java/innerAndNestedClasses/TopLevelClass.java,1\b\1bde23c945879528d6bd81b6c3a5bdb9fa4a81bb
+P
+ src/main/java/lambda/Person.java,4\5\454919477ba96857a4cc177385c67fe6fbfc8997
+O
+src/main/java/generics/Box.java,1\c\1c28c6e1302a2ac8962975bf4adae1f5b3106b8c
+W
+'src/main/java/generics/OrderedPair.java,d\f\df555eddb3da3bc1a3cc9c055accbb3297aa1343
