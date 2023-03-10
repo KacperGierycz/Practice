@@ -39,7 +39,18 @@ public class RosterTest {
     }
 
     // Approach 3: Specify Search Criteria Code in a Local Class
+
+    static class CheckPersonEligibleForSelectiveService implements CheckPerson {
+        public boolean test(Person p) {
+            return p.gender == Person.Sex.MALE &&
+                    p.getAge() >= 18 &&
+                    p.getAge() <= 25;
+        }
+    }
+
     // Approach 4: Specify Search Criteria Code in an Anonymous Class
+
+
     // Approach 5: Specify Search Criteria Code with a Lambda Expression
 
     public static void printPersons(
@@ -107,7 +118,17 @@ public class RosterTest {
 
     public static void main(String... args) {
 
+
+
         List<Person> roster = Person.createRoster();
+
+
+        RosterTest rosterTest = new RosterTest();
+
+
+        printPersons(
+                roster, new CheckPersonEligibleForSelectiveService());
+
 
         for (Person p : roster) {
             p.printPerson();
