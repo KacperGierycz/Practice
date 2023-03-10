@@ -26,9 +26,27 @@ Q
 !src/main/java/jfx/HelloWorld.java,1\0\10dafcad3f217fd98a89f47c48e7c5790017476e
 f
 6src/main/java/innerAndNestedClasses/TopLevelClass.java,1\b\1bde23c945879528d6bd81b6c3a5bdb9fa4a81bb
-P
- src/main/java/lambda/Person.java,4\5\454919477ba96857a4cc177385c67fe6fbfc8997
 O
 src/main/java/generics/Box.java,1\c\1c28c6e1302a2ac8962975bf4adae1f5b3106b8c
 W
 'src/main/java/generics/OrderedPair.java,d\f\df555eddb3da3bc1a3cc9c055accbb3297aa1343
+P
+ src/main/java/generics/Pair.java,9\1\910fad6cef7a28e6e3db76dd38ba775a6b2a1b0d
+P
+ src/main/java/generics/Util.java,b\d\bd40a40269df728565eec4cda3cba7c80ec38d41
+Q
+!src/main/java/generics/PairX.java,7\b\7b340b407a2e315b9312b383426762d354eb7cfe
+S
+#src/main/java/generics/BoxDemo.java,5\8\58f95d2d1a7e1e818fdbf683072607da42195e51
+Z
+*src/main/java/generics/UnaryPredicate.java,1\b\1b24485db6932a1938b02ccce11a3ed4adf852da
+Z
+*src/main/java/generics/ClassForMethod.java,5\a\5a44406bdaa0e5f7bdd2d2cdf3ed5f879285e5ae
+P
+ src/main/java/generics/Test.java,9\5\957bdba9f2f8de99cad632ea397be9451a0515f4
+Z
+*src/main/java/generics/SwitchPosition.java,4\a\4a35a81d2d2de533c6c13cc17c31e33da776ea41
+Z
+*src/main/java/generics/BoundedMethods.java,7\c\7c2eda41c5affae7a3b9d9624a8de451a39ac79e
+R
+"src/main/java/generics/Runner.java,1\b\1bb07383515af90f33fc6e5e852832856a7015b6
