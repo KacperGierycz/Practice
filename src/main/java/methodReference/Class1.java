@@ -26,4 +26,6 @@ public class Class1 {
             return "InnerClass1: getAnotherString invoked";
         }
     }
+
+
 }

@@ -34,8 +34,41 @@ public class DataStructure {
 
     public void print(java.util.function.Function<Integer, Boolean> iterator){
 
+        int t=0;
+        for(Integer i : arrayOfInts){
+
+            if(iterator.apply(t)){
+                System.out.print(i + " ");
+            }
+            t++;
+        }
+        System.out.println();
+
+    }
+    public static Boolean isEvenIndex(Integer x){
 
 
+            if(x%2==0) {
+                return true;
+            }
+            else {
+                return false;
+            }
+
+    }
+
+    public static Boolean isOddIndex(Integer x){
+        if(x%2!=0) {
+            return true;
+        }
+        else {
+            return false;
+        }
+
+    }
+
+    private DataStructureIterator getDataStructureIterator(){
+        return new EvenIterator();
     }
 
     interface DataStructureIterator extends java.util.Iterator<Integer> { }
@@ -94,7 +127,13 @@ public class DataStructure {
             }
         });
 
+        ds.print(p -> p%2 == 0);
+        ds.print(p -> p%2 != 0);
 
+        System.out.println( "Printing with method reference");
+
+        ds.print(DataStructure::isEvenIndex);
+        ds.print(DataStructure::isOddIndex);
 
     }
 }

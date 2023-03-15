@@ -46,3 +46,9 @@ Z
 *src/main/java/generics/BoundedMethods.java,7\c\7c2eda41c5affae7a3b9d9624a8de451a39ac79e
 R
 "src/main/java/generics/Runner.java,1\b\1bb07383515af90f33fc6e5e852832856a7015b6
+Y
+)src/main/java/lambda/LambdaScopeTest.java,d\2\d2bb4a609d9097f0f692cef70c201a4543dd5900
+T
+$src/main/java/lambda/Calculator.java,6\2\625fd1896424b0b15f4a9209971af152b2d42882
+P
+ src/main/java/lambda/Person.java,4\5\454919477ba96857a4cc177385c67fe6fbfc8997
