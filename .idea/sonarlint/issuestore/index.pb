@@ -52,3 +52,5 @@ T
 $src/main/java/lambda/Calculator.java,6\2\625fd1896424b0b15f4a9209971af152b2d42882
 P
  src/main/java/lambda/Person.java,4\5\454919477ba96857a4cc177385c67fe6fbfc8997
+g
+7src/main/java/methodReference/MethodReferencesTest.java,f\d\fde307b423e13e9894366d6c99659261dd75e158
