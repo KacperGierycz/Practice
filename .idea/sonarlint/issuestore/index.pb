@@ -64,3 +64,21 @@ O
 src/main/java/enums/Planet.java,6\a\6a099c8c14c19b8794f329e5faee055d80a099ce
 N
 src/main/java/enums/Card3.java,e\1\e1fdd5587419aa386a54e1f1a2e460c4f479e09b
+N
+src/main/java/enums/Deck3.java,c\b\cbff12561d237ee4b32d3a195e772fa3d33988e9
+M
+src/main/java/enums/Rank.java,e\c\ecbebe20c03d817d83a4d3bfd3c38c4468717cea
+M
+src/main/java/enums/Suit.java,b\8\b8138b1a84ed3ee55373b632d3828018e92512e9
+T
+$src/main/java/Mutability/Runner.java,5\4\54d79106f676038f66834df8dab483d8a331e3cd
+g
+7src/main/java/Mutability/MutabilityAndNoMutability.java,f\8\f8f8bcad37df1664876888bad41e21485f780ff1
+[
++src/main/java/Mutability/MutableObject.java,1\a\1ae8df1d990ea629c58e2df4f230c304f9c5d294
+Y
+)src/main/java/methodReference/Person.java,a\2\a2a177fe76be948a034756ddad8350c75fbbec7d
+T
+$src/main/java/lambda/RosterTest.java,c\5\c5cc21e367c786323396ec0a98469b18fc245b74
+Z
+*src/main/java/annotations/enhancement.java,6\9\699490cde9d6b0b7f2ae8b0082258c259f1d5c81

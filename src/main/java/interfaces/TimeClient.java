@@ -25,4 +25,5 @@ public interface TimeClient {
     default ZonedDateTime getZonedDateTime(String zoneString) {
         return ZonedDateTime.of(getLocalDateTime(), getZoneId(zoneString));
     }
+
 }
