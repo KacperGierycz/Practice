@@ -58,18 +58,6 @@ Y
 )src/main/java/methodReference/Class1.java,c\d\cd1520143cad1d87cdf3a2ebb31c35de55870a1d
 `
 0src/main/java/methodReference/DataStructure.java,1\a\1a8dbb58e3a1cce9ba756ef8df46c4166ee7c862
-Q
-!src/main/java/enums/EnumTest.java,d\a\dab6f3022512cc804e8f6ab508398920178a5bdd
-O
-src/main/java/enums/Planet.java,6\a\6a099c8c14c19b8794f329e5faee055d80a099ce
-N
-src/main/java/enums/Card3.java,e\1\e1fdd5587419aa386a54e1f1a2e460c4f479e09b
-N
-src/main/java/enums/Deck3.java,c\b\cbff12561d237ee4b32d3a195e772fa3d33988e9
-M
-src/main/java/enums/Rank.java,e\c\ecbebe20c03d817d83a4d3bfd3c38c4468717cea
-M
-src/main/java/enums/Suit.java,b\8\b8138b1a84ed3ee55373b632d3828018e92512e9
 T
 $src/main/java/Mutability/Runner.java,5\4\54d79106f676038f66834df8dab483d8a331e3cd
 g
