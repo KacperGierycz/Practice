@@ -56,8 +56,6 @@ g
 7src/main/java/methodReference/MethodReferencesTest.java,f\d\fde307b423e13e9894366d6c99659261dd75e158
 Y
 )src/main/java/methodReference/Class1.java,c\d\cd1520143cad1d87cdf3a2ebb31c35de55870a1d
-`
-0src/main/java/methodReference/DataStructure.java,1\a\1a8dbb58e3a1cce9ba756ef8df46c4166ee7c862
 T
 $src/main/java/Mutability/Runner.java,5\4\54d79106f676038f66834df8dab483d8a331e3cd
 g
@@ -96,3 +94,5 @@ N
 src/main/java/enums/Card3.java,e\1\e1fdd5587419aa386a54e1f1a2e460c4f479e09b
 N
 src/main/java/enums/Deck3.java,c\b\cbff12561d237ee4b32d3a195e772fa3d33988e9
+d
+4src/main/java/interfaces/AbstractZoneTimeClient.java,0\2\02168d9140ac072af6c0e205cc2314d58d53c417
