@@ -138,3 +138,11 @@ e
 5src/main/java/inheritance/sameSignature/Mythical.java,8\b\8b47d743a3cb32731155f80ba176f98f00bd42cc
 d
 4src/main/java/inheritance/sameSignature/Pegasus.java,5\8\585d6fde4b5b1e70577d8615782c03f828af2a60
+g
+7src/main/java/inheritance/sameSignature/OperateCar.java,e\1\e1f346be95591347608e7ad76ae0ca07bc0fa5a9
+c
+3src/main/java/inheritance/sameSignature/FlyCar.java,a\f\af21e4f2db4a1ee337f801dd4fe73ced3ec75fe0
+f
+6src/main/java/inheritance/sameSignature/FlyingCar.java,f\a\faf986d9f86f84e9f5f8b07bc7f8cf5c9d12eaa2
+c
+3src/main/java/inheritance/sameSignature/Animal.java,d\3\d39f00bc93e3f22641ac3e8c81a9e9bb9abfcc00
