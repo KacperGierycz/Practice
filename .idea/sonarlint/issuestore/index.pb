@@ -168,3 +168,25 @@ t
 Dsrc/main/java/inheritance/innerNestedClassAscendant/InnerRunner.java,0\7\07ba59ff4365359de2be77b13fcd77db3862c99c
 Y
 )src/main/java/interfaces/PlayingCard.java,6\5\654ef0142b9efead25278c0aee62434cae8dfc7a
+W
+'src/main/java/number/FirstPractice.java,4\0\4063ad1541ec7249100d15336b5646fe67d45156
+V
+&src/main/java/number/NumberRunner.java,0\8\084b13f1c68f2a3d88e8be00a69463a9a6da5caf
+[
++src/main/java/number/DecimalFormatDemo.java,7\c\7cc8bfae145ca37f00878584764fead57cd9e7ca
+T
+$src/main/java/number/TestFormat.java,9\d\9d3856cda32ef7f37e47b3e8524329d155fa04e7
+W
+'src/main/java/number/BasicMathDemo.java,5\a\5a0666ce54912f3200cca72ddd009bc4c15875c0
+Y
+)src/main/java/number/ExponentialDemo.java,9\1\9105338bfe15d22e5739a6225bf124c240326404
+Z
+*src/main/java/number/MaxVariablesDemo.java,9\e\9e63a7bc2f632842e3c0f4ea2dd1483834edfc56
+[
++src/main/java/number/TrigonometricDemo.java,c\7\c717f7cb9a1519841621e10c0b4e5ab893af857f
+O
+src/main/java/number/Adder.java,d\5\d5e3800f4f454835369d956d24bcf0ecd3526307
+U
+%src/main/java/number/ValueOfDemo.java,4\d\4df87a1d03ca16648c406676b82967c0b8163319
+Q
+!src/main/java/number/FPAdder.java,4\b\4b9c1edda6633cf3cda7103e83b59a04ad859c75
