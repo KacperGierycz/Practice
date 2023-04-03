@@ -208,3 +208,11 @@ V
 &src/main/java/string/FilenameDemo.java,5\0\500772a40c245649646dbc26f7c0e311f714151d
 W
 'src/main/java/character/StringDemo.java,0\d\0dbd4c9ab335fd99bb1932c30820c71e25446840
+Q
+!src/main/java/string/Anagram.java,2\4\24b0e01d04a087d8635f4cf2a6c07c9ad2b9d161
+Y
+)src/main/java/string/ComputeInitials.java,2\f\2fb579b1aead20003e78776a5b3fd01e91f92eb5
+W
+'src/main/java/string/ComputeResult.java,b\7\b77129e49595aad46d0f302a97941cc3079bcd93
+K
+src/main/java/Unboxing.java,5\7\57069172f34ed64d34fd1d0b96c21ce52b9d113f
