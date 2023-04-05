@@ -30,6 +30,14 @@ public class PutItAllTogether {
         } catch (IOException e) {
             System.err.println("Caught IOException: " +  e.getMessage());
 
+        }catch (Exception cause) {
+            StackTraceElement elements[] = cause.getStackTrace();
+            for (int i = 0, n = elements.length; i < n; i++) {
+                System.err.println(elements[i].getFileName()
+                        + ":" + elements[i].getLineNumber()
+                        + ">> "
+                        + elements[i].getMethodName() + "()");
+            }
         } finally {
             if (out != null) {
                 System.out.println("Closing PrintWriter");
