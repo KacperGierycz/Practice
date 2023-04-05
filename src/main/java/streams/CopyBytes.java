@@ -11,10 +11,11 @@ public class CopyBytes {
 
         try {
             in = new FileInputStream("C:\\MyPlugin\\Practice\\src\\main\\java\\streams\\xanadu.txt");
-            out = new FileOutputStream("outagain.txt");
+            out = new FileOutputStream("C:\\MyPlugin\\Practice\\src\\main\\java\\streams\\outagain.txt");
             int c;
 
             while ((c = in.read()) != -1) {
+          //      System.out.println(c);
                 out.write(c);
             }
         } finally {
