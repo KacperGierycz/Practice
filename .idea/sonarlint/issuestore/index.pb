@@ -1,6 +1,4 @@
 
-I
-src/main/java/runner.java,5\4\547816a89d75c49cf843e42265e9ab6bef96791c
 O
 src/main/java/PrePostDemom.java,c\a\ca4ef67f9d85c9b73bf61ec9c8a203ccf8adb924
 P
@@ -214,8 +212,6 @@ Y
 )src/main/java/string/ComputeInitials.java,2\f\2fb579b1aead20003e78776a5b3fd01e91f92eb5
 W
 'src/main/java/string/ComputeResult.java,b\7\b77129e49595aad46d0f302a97941cc3079bcd93
-K
-src/main/java/Unboxing.java,5\7\57069172f34ed64d34fd1d0b96c21ce52b9d113f
 `
 0src/main/java/packages/mygame/client/Client.java,3\7\3738fdfc415a0a1c088bbf7766dff131bd8b8b88
 `
@@ -230,3 +226,7 @@ R
 "src/main/java/streams/outagain.txt,2\4\2472f436b6a3cb1078727e9db6103bc86578a0b4
 P
  src/main/java/streams/xanadu.txt,5\4\54ab07e43e82e44cee1d8a48bf7f0607e955d09b
+T
+$src/main/java/streams/CopyLines.java,3\6\36057082cff1a800acf03d227450535cb78514c8
+R
+"src/main/java/streams/ScanXan.java,3\a\3a0f835bd4b90b79dd83631b929e95920e699f52

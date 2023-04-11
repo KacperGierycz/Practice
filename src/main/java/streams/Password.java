@@ -3,12 +3,20 @@ package streams;
 import java.io.Console;
 import java.util.Arrays;
 import java.io.IOException;
+import java.util.Scanner;
 
 public class Password {
 
     public static void main (String args[]) throws IOException {
 
         Console c = System.console();
+        Scanner in;
+
+        System.out.print("Enter your login: ");
+        in = new Scanner(System.in);
+        String s = in.nextLine();
+        System.out.println("Your login is " + s );
+
         if (c == null) {
             System.err.println("No console.");
             System.exit(1);
