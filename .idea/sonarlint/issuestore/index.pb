@@ -220,13 +220,7 @@ c
 3src/main/java/packages/mygame/shared/Utilities.java,4\6\467a6d9e4581fc362adca56fb202e9eba4679347
 [
 +src/main/java/exceptions/ListOfNumbers.java,f\d\fd238a0c570384ce6ccd353b3e25be7c5ccd5592
-T
-$src/main/java/streams/CopyBytes.java,5\a\5a02d302de1031766ca120d0cdd6614c7718cbe0
-R
-"src/main/java/streams/outagain.txt,2\4\2472f436b6a3cb1078727e9db6103bc86578a0b4
 P
  src/main/java/streams/xanadu.txt,5\4\54ab07e43e82e44cee1d8a48bf7f0607e955d09b
-T
-$src/main/java/streams/CopyLines.java,3\6\36057082cff1a800acf03d227450535cb78514c8
-R
-"src/main/java/streams/ScanXan.java,3\a\3a0f835bd4b90b79dd83631b929e95920e699f52
+S
+#src/main/java/streams/Password.java,f\e\fedfa792dbace6e95a0b326f4ee3e81afbdd9964

@@ -17,6 +17,12 @@ public class ReferencesAndPrimitives {
         Integer yy = xx;
         xx = 2;
 
+ //       Integer xxx = new Integer(1);
+        Integer xxx = Integer.valueOf(1);
+        Integer yyy = xxx;
+        xxx = 1;
+        System.out.println(xxx == yyy);
+        System.out.println(    xxx.compareTo(yyy));
 
 
 

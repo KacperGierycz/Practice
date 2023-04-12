@@ -14,7 +14,7 @@ public class CopyLines {
 
             String l;
             while ((l = inputStream.readLine()) != null) {
-    //            System.out.println(l);
+                System.out.println(l);
                 outputStream.write(l);
             }
         } finally {
