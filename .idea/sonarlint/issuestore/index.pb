@@ -224,3 +224,25 @@ P
  src/main/java/streams/xanadu.txt,5\4\54ab07e43e82e44cee1d8a48bf7f0607e955d09b
 S
 #src/main/java/streams/Password.java,f\e\fedfa792dbace6e95a0b326f4ee3e81afbdd9964
+I
+src/main/java/runner.java,5\4\547816a89d75c49cf843e42265e9ab6bef96791c
+K
+src/main/java/Unboxing.java,5\7\57069172f34ed64d34fd1d0b96c21ce52b9d113f
+l
+<src/main/java/exceptions/AccessingStackTraceInformation.java,6\e\6e3a36aafa323871e242e85ae5a88e177c15de61
+X
+(src/main/java/exceptions/LoggingAPI.java,d\4\d44a8b80b0bbfa5b30763046c99bc68f55043158
+^
+.src/main/java/exceptions/PutItAllTogether.java,c\6\c60851b8deda547930988781f1bb2eeab0632482
+^
+.src/main/java/exceptions/tryWithResources.java,d\a\da8455c2fbf268312387fa4dc54d0304abd53e0f
+X
+(src/main/java/exceptions/catchBlock.java,1\5\15c28e7cbd6e0f11bb74b1fc4fe920ce2229b95e
+S
+#src/main/java/streams/usnumbers.txt,0\5\056e8886f45f7d26b728075e08cc95b4750d2fb4
+O
+src/main/java/streams/Root.java,4\0\405c639d46a637d400cbbcf0c4921500e7ea7ecc
+;
+invoicedata,7\2\72becd699acb47f24d165a21c31a781783cc1e8b
+a
+1src/main/java/number/ReferencesAndPrimitives.java,6\3\63da0f01ecb5344cfa74fbe40341d164fa3405c2
