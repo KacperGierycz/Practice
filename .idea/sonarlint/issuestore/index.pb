@@ -246,3 +246,5 @@ O
 invoicedata,7\2\72becd699acb47f24d165a21c31a781783cc1e8b
 a
 1src/main/java/number/ReferencesAndPrimitives.java,6\3\63da0f01ecb5344cfa74fbe40341d164fa3405c2
+C
+characteroutput.txt,e\3\e3d5101d8992daa72ecbaff20a3d9bab0f5e328d
