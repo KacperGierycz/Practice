@@ -248,3 +248,9 @@ a
 1src/main/java/number/ReferencesAndPrimitives.java,6\3\63da0f01ecb5344cfa74fbe40341d164fa3405c2
 C
 characteroutput.txt,e\3\e3d5101d8992daa72ecbaff20a3d9bab0f5e328d
+T
+$src/main/java/streams/CopyLines.java,3\6\36057082cff1a800acf03d227450535cb78514c8
+R
+"src/main/java/streams/outagain.txt,2\4\2472f436b6a3cb1078727e9db6103bc86578a0b4
+7
+ToPaste,3\7\3767aa676c70b97e15f7257b42ab43b33f48aee0

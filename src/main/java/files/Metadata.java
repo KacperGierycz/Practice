@@ -1,18 +1,34 @@
 package files;
 
 import java.io.IOException;
-import java.nio.file.Files;
-import java.nio.file.Path;
-import java.nio.file.Paths;
+import java.nio.file.*;
 import java.nio.file.attribute.BasicFileAttributes;
+
+import static java.nio.file.LinkOption.NOFOLLOW_LINKS;
+import static java.nio.file.StandardCopyOption.REPLACE_EXISTING;
 
 public class Metadata {
 
     public static void main(String[] args) {
 
-        Path file = Paths.get("characteroutput.txt");
+   //     Path file = Paths.get("characteroutput.txt");
+        Path file = Paths.get("C://MyPlugin/Practice/characteroutput.txt");
+        Path toPaste = Paths.get("C://MyPlugin/Practice/ToPaste2/chars.txt");
         //   Path file = ...;
         BasicFileAttributes attr;
+
+        try {
+            Files.copy(file,toPaste,StandardCopyOption.REPLACE_EXISTING);
+        //    Files.copy(toPaste,file);
+         //   Files.copy(toPaste,file,NOFOLLOW_LINKS);
+        } catch (NoSuchFileException x) {
+            System.err.format("%s: no such" + " file or directory%n", file);
+        } catch (DirectoryNotEmptyException x) {
+            System.err.format("%s not empty%n", file);
+        } catch (IOException x) {
+            // File permission problems are caught here.
+            System.err.println(x);
+        }
 
         {
             try {
