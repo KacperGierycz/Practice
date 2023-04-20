@@ -10,7 +10,7 @@ public class LogFileTest {
 
         // Convert the string to a
         // byte array.
-        String s = "Hello World! ";
+        String s = "Hello World! is this appended ";
         byte data[] = s.getBytes();
         Path p = Paths.get("./logfile.txt");
 
