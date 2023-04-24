@@ -254,3 +254,9 @@ R
 "src/main/java/streams/outagain.txt,2\4\2472f436b6a3cb1078727e9db6103bc86578a0b4
 7
 ToPaste,3\7\3767aa676c70b97e15f7257b42ab43b33f48aee0
+T
+$src/main/java/streams/CopyBytes.java,5\a\5a02d302de1031766ca120d0cdd6614c7718cbe0
+Q
+!src/main/java/files/Metadata.java,c\1\c110f2b02d2588c3d0d980d1c42c2c442a666b09
+;
+logfile.txt,5\f\5f0fe644de29bdfd9001e228c10edd1e57a01f18
