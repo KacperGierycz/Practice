@@ -11,9 +11,15 @@ public class Directories {
 
 
     class Inner{
-        class InnerIn{
+        Inner(){
+
+        }
+         class InnerIn{
+            InnerIn(){
+
+            }
             class InnerInIn{
-                class InnerInInIn{
+               static class InnerInInIn{
 
                 }
             }
@@ -23,6 +29,12 @@ public class Directories {
 
     public static void main(String[] args) {
 
+
+        Directories d = new Directories();
+
+        Directories.Inner ii =  d.new Inner();
+        Directories.Inner.InnerIn iii= ii.new InnerIn();
+        Directories.Inner.InnerIn.InnerInIn.InnerInInIn iiiii = new Directories.Inner.InnerIn.InnerInIn.InnerInInIn();
 
         try {
             Files.createDirectories(Paths.get("foo/bar2"));
@@ -81,7 +93,6 @@ public class Directories {
 //            System.err.println(name);
 //        }
     }
-
 
 
 }

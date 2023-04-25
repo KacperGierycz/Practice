@@ -222,8 +222,6 @@ c
 +src/main/java/exceptions/ListOfNumbers.java,f\d\fd238a0c570384ce6ccd353b3e25be7c5ccd5592
 P
  src/main/java/streams/xanadu.txt,5\4\54ab07e43e82e44cee1d8a48bf7f0607e955d09b
-S
-#src/main/java/streams/Password.java,f\e\fedfa792dbace6e95a0b326f4ee3e81afbdd9964
 I
 src/main/java/runner.java,5\4\547816a89d75c49cf843e42265e9ab6bef96791c
 K
