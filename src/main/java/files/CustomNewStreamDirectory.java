@@ -9,7 +9,7 @@ import java.nio.file.Paths;
 public class CustomNewStreamDirectory {
 
 
-    static Path path = Paths.get("foo");
+    static Path path = Paths.get("foo/bar");
 
 
     static DirectoryStream.Filter<Path> filter =
