@@ -260,3 +260,11 @@ Q
 !src/main/java/files/Metadata.java,c\1\c110f2b02d2588c3d0d980d1c42c2c442a666b09
 ;
 logfile.txt,5\f\5f0fe644de29bdfd9001e228c10edd1e57a01f18
+T
+$src/main/java/files/LogFileTest.java,4\9\49acac5b29d7c3cf05df6eae8e0d67044f8db03d
+W
+'src/main/java/streams/PathExamples.java,c\8\c804e1fc3ab33616f4314d3c4fd58827b944f8f4
+8
+asciFile,4\8\48eb28115953d1650260348d56c36b8f85da658a
+A
+foo/dataInDir.txt,a\8\a8ef12f5980f0aedbcc2e508e4e5afcb0d2ce6a0
