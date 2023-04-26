@@ -238,37 +238,21 @@ X
 (src/main/java/exceptions/catchBlock.java,1\5\15c28e7cbd6e0f11bb74b1fc4fe920ce2229b95e
 S
 #src/main/java/streams/usnumbers.txt,0\5\056e8886f45f7d26b728075e08cc95b4750d2fb4
-O
-src/main/java/streams/Root.java,4\0\405c639d46a637d400cbbcf0c4921500e7ea7ecc
 ;
 invoicedata,7\2\72becd699acb47f24d165a21c31a781783cc1e8b
 a
 1src/main/java/number/ReferencesAndPrimitives.java,6\3\63da0f01ecb5344cfa74fbe40341d164fa3405c2
 C
 characteroutput.txt,e\3\e3d5101d8992daa72ecbaff20a3d9bab0f5e328d
-T
-$src/main/java/streams/CopyLines.java,3\6\36057082cff1a800acf03d227450535cb78514c8
 7
 ToPaste,3\7\3767aa676c70b97e15f7257b42ab43b33f48aee0
-Q
-!src/main/java/files/Metadata.java,c\1\c110f2b02d2588c3d0d980d1c42c2c442a666b09
 ;
 logfile.txt,5\f\5f0fe644de29bdfd9001e228c10edd1e57a01f18
-W
-'src/main/java/streams/PathExamples.java,c\8\c804e1fc3ab33616f4314d3c4fd58827b944f8f4
 8
 asciFile,4\8\48eb28115953d1650260348d56c36b8f85da658a
 A
 foo/dataInDir.txt,a\8\a8ef12f5980f0aedbcc2e508e4e5afcb0d2ce6a0
-R
-"src/main/java/streams/ScanSum.java,e\9\e958286a5bd311596c0d94bda2fae9d812fab143
-U
-%src/main/java/files/RandomAccess.java,a\6\a6d960608db902e82eafa0ce2c5c140a9c24bb05
-S
-#src/main/java/streams/Password.java,f\e\fedfa792dbace6e95a0b326f4ee3e81afbdd9964
 a
 1src/main/java/files/CustomNewStreamDirectory.java,d\f\df238bf72d2156394c065b17d86feac377ca49b1
 W
 'src/main/java/files/AsciFileWriter.java,8\f\8fd2a16138f29da18e4fd4057d0c6f1e19f627a3
-T
-$src/main/java/files/Directories.java,7\5\75eb8d87b256fd1fc52fe8f034247a39b84d3ec0
