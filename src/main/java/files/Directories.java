@@ -45,17 +45,9 @@ public class Directories {
             throw new RuntimeException(e);
         }
 
-        Path dir = Paths.get("foo");
-        try (DirectoryStream<Path> stream =
-                     Files.newDirectoryStream(dir, "*.{java,class,jar}")) {
-            for (Path entry: stream) {
-                System.out.println(entry.getFileName());
-            }
-        } catch (IOException x) {
-            // IOException can never be thrown by the iteration.
-            // In this snippet, it can // only be thrown by newDirectoryStream.
-            System.err.println(x);
-        }
+ //       Path dir = Paths.get("foo");
+
+
 
 //
 //        try (DirectoryStream<Path> stream = Files.newDirectoryStream(dir)) {
