@@ -127,11 +127,14 @@ public class Find {
     public static void main(String[] args)
             throws IOException {
 
-        if (args.length < 3 || !args[1].equals("-name"))
-            usage();
+//        if (args.length < 3 || !args[1].equals("-name"))
+//            usage();
+//
+//        Path startingDir = Paths.get(args[0]);
+//        String pattern = args[2];
 
-        Path startingDir = Paths.get(args[0]);
-        String pattern = args[2];
+       String pattern =  "*.java";
+               Path startingDir = Paths.get("./");
 
         Finder finder = new Finder(pattern);
         Files.walkFileTree(startingDir, finder);
