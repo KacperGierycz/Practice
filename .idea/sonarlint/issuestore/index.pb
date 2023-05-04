@@ -288,3 +288,9 @@ T
 $src/main/java/files/LogFileTest.java,4\9\49acac5b29d7c3cf05df6eae8e0d67044f8db03d
 T
 $src/main/java/files/ReadSymLink.java,b\0\b036c308ebf8cdd0202875705d137467eb831d52
+S
+#src/main/java/files/PrintFiles.java,3\6\36b695a81d87d2817ea6d0e7c187120063f5698c
+T
+$src/main/java/files/Directories.java,7\5\75eb8d87b256fd1fc52fe8f034247a39b84d3ec0
+M
+src/main/java/files/Copy.java,a\5\a5b305f3275fc143fd78eb20ba38effe7b5e4d4d
