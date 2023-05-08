@@ -292,3 +292,25 @@ T
 $src/main/java/files/Directories.java,7\5\75eb8d87b256fd1fc52fe8f034247a39b84d3ec0
 M
 src/main/java/files/Copy.java,a\5\a5b305f3275fc143fd78eb20ba38effe7b5e4d4d
+Y
+)src/main/java/files/PrintDirectories.java,a\e\aee6840a781e2a76f3c6bcb2dc964b8e5857f9ec
+Y
+)src/main/java/files/PathMatcherClass.java,8\6\86b53e3a7037b3eebfcda5eca64ee58616f47dbf
+O
+src/main/java/files/Delete.java,a\4\a4e42a9ba1f2e5b1efaa4918e8c584e45345bcd9
+U
+%src/main/java/files/FilesVisitor.java,f\6\f682fc4253db552c1981f179bf81f5d08b14ee9b
+M
+src/main/java/files/Find.java,5\a\5a23dfd7af0a97c610317f13e2205299c3dda891
+Q
+!src/main/java/files/HardLink.java,8\7\873d87876541248590c5fd3e8ccf4536a5affbe2
+=
+foo/SLink.txt,9\6\968e903de82627d717c33f9b568730eb90f2624d
+M
+src/main/java/number/App.java,9\d\9d61d8c2dcfcf8f1e3e67dffc32d7126cc773503
+T
+$src/main/java/files/CheckForRun.java,1\8\1834294f710b386e9cf5c68e817982589d0d6748
+Q
+!src/main/java/files/WatchDir.java,3\c\3ce3d3257d9db990f6ce17fe78efb6aad0524906
+N
+src/main/java/files/Email.java,f\b\fb7769ff9a3cbcace9b546b0f62f3b7d3d530ac9
