@@ -77,6 +77,7 @@ public class SimpleThreads {
                 t.interrupt();
                 // Shouldn't be long now
                 // -- wait indefinitely
+                threadMessage("Interrupted");
                 t.join();
             }
         }
