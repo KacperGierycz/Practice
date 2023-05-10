@@ -314,3 +314,19 @@ Q
 !src/main/java/files/WatchDir.java,3\c\3ce3d3257d9db990f6ce17fe78efb6aad0524906
 N
 src/main/java/files/Email.java,f\b\fb7769ff9a3cbcace9b546b0f62f3b7d3d530ac9
+U
+%src/main/java/files/RandomAccess.java,a\6\a6d960608db902e82eafa0ce2c5c140a9c24bb05
+T
+$src/main/java/files/ReadBigFile.java,d\e\de6985b0284400ae08963fd3a8bbf5195cd0de81
+Z
+*src/main/java/files/ReadOccurencesOfX.java,f\4\f411e855e97c4690724a706a445971bbcad3ae18
+Q
+!src/main/java/JustPractice/A.java,6\e\6e443e457d3b545a280868671693149fa4c2545c
+Y
+)src/main/java/JustPractice/MainClass.java,9\6\9616e7f18be2b92c5b1f24da907cd0bfc714af72
+Q
+!src/main/java/JustPractice/X.java,0\d\0d58ee7af7b7f4097528734af7da094ef2694a9f
+W
+'src/main/java/JustPractice/pack1/A.java,e\d\ed65896099fd86eca5fae9f8e7a888de47cbaeda
+_
+/src/main/java/JustPractice/pack1/MainClass.java,5\b\5badae25a7543a016eb8b381f3073d9f6d064a34
