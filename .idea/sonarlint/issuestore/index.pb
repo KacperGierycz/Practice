@@ -330,3 +330,9 @@ W
 'src/main/java/JustPractice/pack1/A.java,e\d\ed65896099fd86eca5fae9f8e7a888de47cbaeda
 _
 /src/main/java/JustPractice/pack1/MainClass.java,5\b\5badae25a7543a016eb8b381f3073d9f6d064a34
+]
+-src/main/java/JustPractice/pack2/pack1/A.java,a\f\af96d339ccbdbc843ce4bc3e1ba82c417b337b6c
+V
+&src/main/java/JustPractice/pac3/B.java,b\d\bdcf389d909addb6a9ae609b11186e7827ecb98c
+^
+.src/main/java/JustPractice/pac3/MainClass.java,9\1\91e5e395e811d0023e3bb303db1264934be4d97e
