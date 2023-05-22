@@ -1,0 +1,7 @@
+package JustPractice;
+
+ class inheritance {
+
+
+
+}
