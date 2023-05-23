@@ -366,3 +366,25 @@ Gsrc/main/java/JustPractice/pack2/pack1/JavaExceptionHandlingQuize2.java,1\a\1a
 -src/main/java/JustPractice/pack2/pack1/A.java,a\f\af96d339ccbdbc843ce4bc3e1ba82c417b337b6c
 `
 0src/main/java/packages/mygame/client/Client.java,3\7\3738fdfc415a0a1c088bbf7766dff131bd8b8b88
+d
+4src/main/java/inheritance/multipleInheritance/A.java,8\e\8e24f309e6925c8145d28e83c0b50b7790613e5d
+e
+5src/main/java/inheritance/protectedConstructor/A.java,7\2\726ca37924d680a101e22cbb1c520c7b672058cf
+c
+3src/main/java/inheritance/protectedOrDefault/A.java,b\a\baee86dac2463ee85970a492470652adc8fdcb77
+d
+4src/main/java/JustPractice/constructorPrivate/A.java,9\f\9f91051a66501b3c0a4eba115d4b8d27500cccaa
+P
+ src/main/java/inheritance/B.java,d\5\d5ea4741e9e1ce84eb1224206d8439ab80aaa328
+P
+ src/main/java/inheritance/C.java,c\3\c333ab26bc484d0600d94364a573313b02e9a5c9
+^
+.src/main/java/JustPractice/ClassSingleton.java,d\b\db0557a3dc4022c4f1d419ec04e2e8fb42180465
+[
++src/main/java/JustPractice/inheritance.java,6\9\6954e0aba7a18cff1a40e1d7538bb3d43df7bfd6
+e
+5src/main/java/JustPractice/StringBuilderPractice.java,e\4\e452905cbc3364bb81fffe130d974563928a2046
+b
+2src/main/java/JustPractice/overideOfPrivate/A.java,2\a\2a377c73e87cb4429bb4c054c4282a2f033cfda0
+l
+<src/main/java/inheritance/multipleInheritance/MainClass.java,a\5\a59dedbc6969caf27d067dc0b395c2908205da8a
