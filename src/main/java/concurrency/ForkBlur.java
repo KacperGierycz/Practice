@@ -86,15 +86,16 @@ public class ForkBlur extends RecursiveAction {
         }
     }
 
-    protected static int sThreshold = 10000;
+    protected static int sThreshold = 10000000;
 
     @Override
     protected void compute() {
         if (mLength < sThreshold) {
+            System.out.println("compute directly!");
             computeDirectly();
             return;
         }
-
+        System.out.println("Not Directly!");
         int split = mLength / 2;
 
         invokeAll(new ForkBlur(mSource, mStart, split, mDestination),
@@ -104,7 +105,7 @@ public class ForkBlur extends RecursiveAction {
 
     // Plumbing follows.
     public static void main(String[] args) throws Exception {
-        String srcName = "red-tulips.jpg";
+        String srcName = "Ur.jpg";
         File srcFile = new File(srcName);
         BufferedImage image = ImageIO.read(srcFile);
 
@@ -112,11 +113,12 @@ public class ForkBlur extends RecursiveAction {
 
         BufferedImage blurredImage = blur(image);
 
-        String dstName = "blurred-tulips.jpg";
+        String dstName = "BUr.jpg";
         File dstFile = new File(dstName);
         boolean jpg = ImageIO.write(blurredImage, "jpg", dstFile);
         System.out.println(dstFile.getAbsolutePath());
         System.out.println("Output image: " + dstName);
+        System.out.println(dstName.getBytes().length);
         BufferedWriter outputStream = new BufferedWriter(new FileWriter(dstFile));
 
 
