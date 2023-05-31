@@ -320,8 +320,6 @@ V
 &src/main/java/JustPractice/pac3/B.java,b\d\bdcf389d909addb6a9ae609b11186e7827ecb98c
 ^
 .src/main/java/JustPractice/pac3/MainClass.java,9\1\91e5e395e811d0023e3bb303db1264934be4d97e
-\
-,src/main/java/concurrency/SimpleThreads.java,d\a\da05ac4f604354b2023278b39a9d287eb34b2b2d
 Y
 )src/main/java/concurrency/AIExecutor.java,4\6\4649a3abf33c00a68339d1a3c4ed5d4980b90321
 a
@@ -336,12 +334,6 @@ W
 'src/main/java/concurrency/Deadlock.java,b\8\b8befc1e376a792b45be0a4347f14ea02fb1087a
 T
 $src/main/java/JustPractice/loop.java,a\e\ae6292e4db5d80cf76f041bb83a68e25552f4dd0
-d
-4src/main/java/concurrency/consumerProducer/Drop.java,0\a\0ad28fd20a2b7daf58b9a77f6cac20b26e8fdd90
-h
-8src/main/java/concurrency/consumerProducer/Consumer.java,0\e\0ef20e0a14085da97bf864d5442281c6eeeb8a6e
-w
-Gsrc/main/java/concurrency/consumerProducer/ProducerConsumerExample.java,6\4\64b036792388915ae8aca2a8ab34e67301122fce
 h
 8src/main/java/concurrency/consumerProducer/Producer.java,4\3\4387a082b58ae083ec0fc66b37cce86a4479965b
 Y
@@ -376,3 +368,7 @@ b
 2src/main/java/JustPractice/overideOfPrivate/A.java,2\a\2a377c73e87cb4429bb4c054c4282a2f033cfda0
 l
 <src/main/java/inheritance/multipleInheritance/MainClass.java,a\5\a59dedbc6969caf27d067dc0b395c2908205da8a
+\
+,src/main/java/concurrency/AtomicCounter.java,6\6\66a9adecb9018d5fa63a17c01ac67fcca133ef1e
+W
+'src/main/java/concurrency/ForkBlur.java,c\8\c8a4a13a5228dfecae7d5c8b9f6a45330b778049
