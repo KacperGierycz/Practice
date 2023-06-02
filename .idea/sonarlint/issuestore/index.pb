@@ -372,3 +372,17 @@ l
 ,src/main/java/concurrency/AtomicCounter.java,6\6\66a9adecb9018d5fa63a17c01ac67fcca133ef1e
 W
 'src/main/java/concurrency/ForkBlur.java,c\8\c8a4a13a5228dfecae7d5c8b9f6a45330b778049
+w
+Gsrc/main/java/concurrency/consumerProducer/ProducerConsumerExample.java,6\4\64b036792388915ae8aca2a8ab34e67301122fce
+h
+8src/main/java/concurrency/consumerProducer/Consumer.java,0\e\0ef20e0a14085da97bf864d5442281c6eeeb8a6e
+\
+,src/main/java/concurrency/SimpleThreads.java,d\a\da05ac4f604354b2023278b39a9d287eb34b2b2d
+Y
+)src/main/java/concurrency/BadThreads.java,8\6\86e76fb1303f1b788e447375e30b3cc28140a899
+p
+@src/main/java/concurrency/consumerProducerStandard/Producer.java,c\3\c31ce6efa30604984916871147d014f7d055676f
+p
+@src/main/java/concurrency/consumerProducerStandard/Consumer.java,4\8\4891760427657b4fa00ea1d2ed0abd612fdfb8fd
+
+Osrc/main/java/concurrency/consumerProducerStandard/ProducerConsumerExample.java,a\7\a705491ec1e6a04e946cd4fd937d597d8388f791
