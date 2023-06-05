@@ -3,8 +3,6 @@ O
 src/main/java/PrePostDemom.java,c\a\ca4ef67f9d85c9b73bf61ec9c8a203ccf8adb924
 P
  src/main/java/ReferanceDemo.java,e\3\e3421cb2c187ff9b108cba1ea65a9a4173e573b2
-c
-3src/main/java/innerAndNestedClasses/OuterClass.java,2\0\2027aa7225d79903bb141d2aaeca106e53db8fcb
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 :
@@ -18,8 +16,6 @@ $src/main/java/LocalClassExample.java,9\1\9144592435cf836a9d9225424a6cdca83a909
 -src/main/java/HelloWorldAnonymousClasses.java,c\3\c342c46821497180e028723d4e4dc58d990350c7
 Q
 !src/main/java/jfx/HelloWorld.java,1\0\10dafcad3f217fd98a89f47c48e7c5790017476e
-f
-6src/main/java/innerAndNestedClasses/TopLevelClass.java,1\b\1bde23c945879528d6bd81b6c3a5bdb9fa4a81bb
 O
 src/main/java/generics/Box.java,1\c\1c28c6e1302a2ac8962975bf4adae1f5b3106b8c
 W
@@ -222,8 +218,6 @@ P
  src/main/java/streams/xanadu.txt,5\4\54ab07e43e82e44cee1d8a48bf7f0607e955d09b
 I
 src/main/java/runner.java,5\4\547816a89d75c49cf843e42265e9ab6bef96791c
-K
-src/main/java/Unboxing.java,5\7\57069172f34ed64d34fd1d0b96c21ce52b9d113f
 l
 <src/main/java/exceptions/AccessingStackTraceInformation.java,6\e\6e3a36aafa323871e242e85ae5a88e177c15de61
 X
@@ -238,8 +232,6 @@ S
 #src/main/java/streams/usnumbers.txt,0\5\056e8886f45f7d26b728075e08cc95b4750d2fb4
 ;
 invoicedata,7\2\72becd699acb47f24d165a21c31a781783cc1e8b
-a
-1src/main/java/number/ReferencesAndPrimitives.java,6\3\63da0f01ecb5344cfa74fbe40341d164fa3405c2
 C
 characteroutput.txt,e\3\e3d5101d8992daa72ecbaff20a3d9bab0f5e328d
 7
@@ -386,3 +378,19 @@ p
 @src/main/java/concurrency/consumerProducerStandard/Consumer.java,4\8\4891760427657b4fa00ea1d2ed0abd612fdfb8fd
 
 Osrc/main/java/concurrency/consumerProducerStandard/ProducerConsumerExample.java,a\7\a705491ec1e6a04e946cd4fd937d597d8388f791
+d
+4src/main/java/concurrency/consumerProducer/Drop.java,0\a\0ad28fd20a2b7daf58b9a77f6cac20b26e8fdd90
+[
++src/main/java/PlatformEnvironment/Echo.java,0\e\0e9ddb67adf0151b9f29700ff2b162073d26af5f
+f
+6src/main/java/PlatformEnvironment/NumberArguments.java,f\b\fbf673c9e9c23b3ddbdf6111dbff003caea7c271
+]
+-src/main/java/PlatformEnvironment/EnvMap.java,8\1\812ddc9bfec52f96ada1cbd075555d71115815ee
+Z
+*src/main/java/PlatformEnvironment/Env.java,3\5\3541b3a878f0b8b0389ff9a82d9ffc0bde25ca69
+N
+src/main/java/quizes/Trim.java,b\5\b50d01a663978c7645a045c912d0a952c812d2ac
+R
+"src/main/java/quizes/CopyFile.java,1\7\1704ec38382fdac0ad517ef270186a2be842f369
+K
+src/main/java/Unboxing.java,5\7\57069172f34ed64d34fd1d0b96c21ce52b9d113f

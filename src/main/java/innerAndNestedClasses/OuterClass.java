@@ -13,6 +13,9 @@ public class OuterClass {
     }
 
     static class StaticNestedClass {
+        class innerInStatic{
+
+        }
         void accessMembers(OuterClass outer) {
             // Compiler error: Cannot make a static reference to the non-static
             //     field outerField

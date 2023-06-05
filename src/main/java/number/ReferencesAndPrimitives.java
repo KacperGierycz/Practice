@@ -7,7 +7,7 @@ public class ReferencesAndPrimitives {
         int y;
     }
 
-    public static void main(String[] args) {
+   final public static void main(String[] args) {
 
         int x = 1;
         int y = x;
