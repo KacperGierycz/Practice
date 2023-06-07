@@ -394,3 +394,13 @@ R
 "src/main/java/quizes/CopyFile.java,1\7\1704ec38382fdac0ad517ef270186a2be842f369
 K
 src/main/java/Unboxing.java,5\7\57069172f34ed64d34fd1d0b96c21ce52b9d113f
+S
+#src/main/java/quizes/SendEmail.java,7\4\74bd559524f3233a45cab420fcf6d7a171e65302
+a
+1src/main/java/number/ReferencesAndPrimitives.java,6\3\63da0f01ecb5344cfa74fbe40341d164fa3405c2
+P
+ src/main/java/quizes/Vendor.java,6\e\6e6b04caa5bf8dbfa770ac6d000c5040b032b7b3
+M
+src/main/java/quizes/App.java,3\7\37fa1f33eb9850510832f657a68c91e34e5a9b9d
+[
++src/main/java/properties/PersistentEcho.txt,f\5\f5f5ff6292cf4d5cc65454ea027dfc4b49d3fc90
