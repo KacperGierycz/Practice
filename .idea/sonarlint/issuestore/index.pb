@@ -404,3 +404,7 @@ M
 src/main/java/quizes/App.java,3\7\37fa1f33eb9850510832f657a68c91e34e5a9b9d
 [
 +src/main/java/properties/PersistentEcho.txt,f\5\f5f5ff6292cf4d5cc65454ea027dfc4b49d3fc90
+N
+src/main/java/quizes/Test.java,2\d\2d5a3c6a1fc1614e3e081f00f776795436b7bb23
+N
+src/main/java/quizes/App2.java,c\f\cf9c5e86e706d8b5c0b915dcc8a086bda0ffa86d
