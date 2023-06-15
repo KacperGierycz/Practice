@@ -408,3 +408,21 @@ N
 src/main/java/quizes/Test.java,2\d\2d5a3c6a1fc1614e3e081f00f776795436b7bb23
 N
 src/main/java/quizes/App2.java,c\f\cf9c5e86e706d8b5c0b915dcc8a086bda0ffa86d
+N
+src/main/java/quizes/App3.java,8\1\81e69d4e0fe2b86619627f2ebd8ec9c8c8424449
+N
+src/main/java/quizes/App4.java,f\d\fdc1ffdb84c2af689ee0d7029acab4dae3327d0a
+Q
+!src/main/java/quizes/MathFun.java,9\9\992dd551a87ac12748c4402ee3e977dc6ce1aeb4
+f
+6src/main/java/innerAndNestedClasses/TopLevelClass.java,1\b\1bde23c945879528d6bd81b6c3a5bdb9fa4a81bb
+c
+3src/main/java/innerAndNestedClasses/OuterClass.java,2\0\2027aa7225d79903bb141d2aaeca106e53db8fcb
+\
+,src/main/java/properties/PersistentEcho.java,6\1\612d79fef6fb388931ef8d9dab70622b387eca62
+U
+%src/main/java/quizes/ToShortList.java,3\4\3434538e100b469ca8c8a62f616b984cc8b488c1
+T
+$src/main/java/quizes/StringNull.java,1\a\1abffe8ad8d13e72b8c4910d8db64a8d70e7e0c4
+_
+/src/main/java/properties/GetPersistentEcho.java,2\7\27b782fcda225f0aa1272230ff14f042ec8b008a
