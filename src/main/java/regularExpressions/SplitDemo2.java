@@ -15,7 +15,7 @@ public class SplitDemo2 {
         String[] items = p.split(INPUT);
         for(String s : items) {
             System.out.println(s);
-            System.out.println(pola_mokotowskie);
+       //     System.out.println(pola_mokotowskie);
         }
     }
 }
