@@ -74,8 +74,6 @@ M
 src/main/java/enums/Rank.java,e\c\ecbebe20c03d817d83a4d3bfd3c38c4468717cea
 O
 src/main/java/enums/Planet.java,6\a\6a099c8c14c19b8794f329e5faee055d80a099ce
-Q
-!src/main/java/enums/EnumTest.java,d\a\dab6f3022512cc804e8f6ab508398920178a5bdd
 N
 src/main/java/enums/Card3.java,e\1\e1fdd5587419aa386a54e1f1a2e460c4f479e09b
 N
@@ -448,3 +446,19 @@ Y
 )src/main/java/lambda/LambdaScopeTest.java,d\2\d2bb4a609d9097f0f692cef70c201a4543dd5900
 T
 $src/main/java/lambda/Calculator.java,6\2\625fd1896424b0b15f4a9209971af152b2d42882
+n
+>src/main/java/collections/collection/CollectionAsArgument.java,a\9\a9fb9b153eaeb9c2a52cb11bc8b1294722e5095a
+[
++src/main/java/collections/set/FindDups.java,e\1\e11c9b55c058eabbafcc73c6597d83ccd4032966
+^
+.src/main/java/collections/set/PeopleToSet.java,8\9\8991a8555fb102d7a7f111d4539617908c31eaa8
+b
+2src/main/java/collections/set/NewArrayAsSlist.java,5\4\5461052843cd6a02430fbfa5db320487958ab370
+l
+<src/main/java/collections/collection/AgregateOperations.java,5\e\5eeeba6b5bc8462c0b5cf0bcc3785978ab426ab4
+Y
+)src/main/java/collections/set/Person.java,f\7\f772b3f7a525adb58a6560b12daf24c9bc0b3953
+a
+1src/main/java/collections/set/FindDupsStream.java,8\4\84ae971fbcd96e47f46e9f0f9ff0986b6b0db2d4
+\
+,src/main/java/collections/set/FindDups2.java,2\b\2b3d40e8ffbcbe13943607a2251ef1aaad58ad4a
