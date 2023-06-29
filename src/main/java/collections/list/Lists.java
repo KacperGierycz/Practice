@@ -28,6 +28,9 @@ public class Lists {
              .map(Person::getName)
              .collect(Collectors.toList());
 
+     List<String> sub2 = list.subList(0,1);
+     sub2.add("Kinia");
+
 
 
      System.out.println(list);
