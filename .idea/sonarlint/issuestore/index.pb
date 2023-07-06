@@ -466,3 +466,5 @@ Y
 )src/main/java/collections/list/Lists.java,f\6\f648af4bdfd6efec592eeec66380229f22949d8f
 ]
 -src/main/java/collections/list/Countdown.java,0\f\0f3804dbbdaafa72855d04e43a5403c3784f9821
+f
+6src/main/java/collections/map/aggregateOperatinos.java,0\7\073b70e8d1cb9e36cf5984baededf0bc8263c1aa
