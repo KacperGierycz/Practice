@@ -444,8 +444,6 @@ T
 $src/main/java/lambda/RosterTest.java,c\5\c5cc21e367c786323396ec0a98469b18fc245b74
 Y
 )src/main/java/lambda/LambdaScopeTest.java,d\2\d2bb4a609d9097f0f692cef70c201a4543dd5900
-T
-$src/main/java/lambda/Calculator.java,6\2\625fd1896424b0b15f4a9209971af152b2d42882
 n
 >src/main/java/collections/collection/CollectionAsArgument.java,a\9\a9fb9b153eaeb9c2a52cb11bc8b1294722e5095a
 [
@@ -468,3 +466,17 @@ Y
 -src/main/java/collections/list/Countdown.java,0\f\0f3804dbbdaafa72855d04e43a5403c3784f9821
 f
 6src/main/java/collections/map/aggregateOperatinos.java,0\7\073b70e8d1cb9e36cf5984baededf0bc8263c1aa
+b
+2src/main/java/collections/map/StreamsStudents.java,7\0\70dc19c12a803ff1db9ce30808509ac9178b8adc
+Y
+)src/main/java/collections/map/Person.java,c\a\ca8b04f5a5ba34d6ad2aa0772e4ee073ec440ded
+b
+2src/main/java/collections/map/GroupingPersons.java,6\c\6c93f91ef9994272cc5fd702f69f8b283a8e5792
+b
+2src/main/java/collections/map/AddAllToDefault.java,b\f\bf00ed000ce6b3369cfb268327db62d13ea03e47
+\
+,src/main/java/collections/list/Shuffle2.java,1\b\1b0fb28c02548cb1d6e48dbdb18b1f6047b7f485
+W
+'src/main/java/collections/map/Freq.java,e\b\ebbf4313aea26630844b277d067fbe99b1626b52
+[
++src/main/java/collections/map/Validate.java,1\4\14904242372f2e31d07cfc47540fc188a5c88aef
