@@ -442,8 +442,6 @@ _
 /src/main/java/lambda/UseOfLambdaExpression.java,7\9\79d0748777f8b6750b4f69ab2ad92d44d14fc5dd
 T
 $src/main/java/lambda/RosterTest.java,c\5\c5cc21e367c786323396ec0a98469b18fc245b74
-Y
-)src/main/java/lambda/LambdaScopeTest.java,d\2\d2bb4a609d9097f0f692cef70c201a4543dd5900
 n
 >src/main/java/collections/collection/CollectionAsArgument.java,a\9\a9fb9b153eaeb9c2a52cb11bc8b1294722e5095a
 [
@@ -480,3 +478,11 @@ W
 'src/main/java/collections/map/Freq.java,e\b\ebbf4313aea26630844b277d067fbe99b1626b52
 [
 +src/main/java/collections/map/Validate.java,1\4\14904242372f2e31d07cfc47540fc188a5c88aef
+[
++src/main/java/collections/map/Anagrams.java,f\4\f40f510d8df9cb4ec84abde0307d73395ddf1a8b
+\
+,src/main/java/collections/map/dictionary.txt,7\2\72a7a98442dfd8359a8422270bb2c5d7dabdb418
+\
+,src/main/java/collections/ordering/hash.java,7\4\7413a7c8d342361357bfe882fe98003cc81e1527
+\
+,src/main/java/collections/ordering/Name.java,c\8\c8385646da82e79e7fab299360d3fa5207ab58e2

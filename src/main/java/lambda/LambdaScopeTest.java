@@ -16,11 +16,10 @@ public class LambdaScopeTest {
 
             Consumer<Integer> myConsumer = (y) ->
             {
-                // The following statement causes the compiler to generate
-                // the error "Local variable z defined in an enclosing scope
-                // must be final or effectively final"
-                //
-                // z = 99;
+//                 The following statement causes the compiler to generate
+//                 the error "Local variable z defined in an enclosing scope
+//                 must be final or effectively final"
+//                 z = 99;
 
                 System.out.println("x = " + x);
                 System.out.println("y = " + y);
