@@ -1,10 +1,24 @@
 package aggregateOperations;
 
+import inheritance.innerNestedClassAscendant.Outer;
+
 import java.util.List;
 
 public class PersonRunner {
 
+
+    Person p = new Person();
+    Person.InnerClass i = p.new InnerClass();
+    Person.Roger r = new Person.Roger();
+
+
     public static void main(String[] args) {
+
+        Person.Roger r = new Person.Roger();
+
+        r.getNonStatic();
+
+        Person.getInt();
 
         List<Person> roster = Person.createRoster();
 

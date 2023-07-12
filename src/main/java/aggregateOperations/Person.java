@@ -40,14 +40,46 @@ import java.time.Period;
 
 public class Person {
 
+    class InnerClass{
+
+        String name2 = name;
+        String name3 = nameStatic;
+
+        int getInt(){
+            return 1;
+        }
+
+    }
+
+    static int getInt(){
+        return 4;
+    }
+
+    static class Roger{
+
+        void getNonStatic(){
+    //        String name3 = name;
+            String name4 = nameStatic;
+
+        }
+
+        static int getInt(){
+            return 4;
+        }
+
+    }
+
     public enum Sex {
         MALE, FEMALE
     }
 
+    static String nameStatic;
     String name;
     LocalDate birthday;
     Sex gender;
     String emailAddress;
+
+    Person(){}
 
     Person(String nameArg, LocalDate birthdayArg,
            Sex genderArg, String emailArg) {
