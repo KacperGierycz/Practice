@@ -40,8 +40,6 @@ Z
 *src/main/java/generics/BoundedMethods.java,7\c\7c2eda41c5affae7a3b9d9624a8de451a39ac79e
 R
 "src/main/java/generics/Runner.java,1\b\1bb07383515af90f33fc6e5e852832856a7015b6
-P
- src/main/java/lambda/Person.java,4\5\454919477ba96857a4cc177385c67fe6fbfc8997
 g
 7src/main/java/methodReference/MethodReferencesTest.java,f\d\fde307b423e13e9894366d6c99659261dd75e158
 Y
@@ -440,8 +438,6 @@ g
 0src/main/java/regularExpressions/SplitDemo2.java,9\4\94ff29219c0d5f32d171b4acfcb79fa6cae81215
 _
 /src/main/java/lambda/UseOfLambdaExpression.java,7\9\79d0748777f8b6750b4f69ab2ad92d44d14fc5dd
-T
-$src/main/java/lambda/RosterTest.java,c\5\c5cc21e367c786323396ec0a98469b18fc245b74
 n
 >src/main/java/collections/collection/CollectionAsArgument.java,a\9\a9fb9b153eaeb9c2a52cb11bc8b1294722e5095a
 [
@@ -502,5 +498,3 @@ d
 0src/main/java/collections/ordering/Employee.java,d\7\d7b7d4015649c3663e65b199d743b0ebf7e58a14
 T
 $src/main/java/lambda/Calculator.java,6\2\625fd1896424b0b15f4a9209971af152b2d42882
-Y
-)src/main/java/lambda/LambdaScopeTest.java,d\2\d2bb4a609d9097f0f692cef70c201a4543dd5900
