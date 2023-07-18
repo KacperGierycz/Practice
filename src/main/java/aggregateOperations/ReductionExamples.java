@@ -95,13 +95,13 @@ public class ReductionExamples {
 
         // 4. Average of male members with collect operation
 
-//        Averager averageCollect = roster.stream()
-//                .filter(p -> p.getGender() == Person.Sex.MALE)
-//                .map(Person::getAge)
-//                .collect(Averager::new, Averager::accept, Averager::combine);
-//
-//        System.out.println("Average age of male members: " +
-//                averageCollect.average());
+        Averager averageCollect = roster.stream()
+                .filter(p -> p.getGender() == Person.Sex.MALE)
+                .map(Person::getAge)
+                .collect(Averager::new, Averager::accept, Averager::combine);
+
+        System.out.println("Average age of male members: " +
+                averageCollect.average());
 
         // 5. Names of male members with collect operation
 

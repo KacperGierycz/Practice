@@ -498,3 +498,9 @@ d
 0src/main/java/collections/ordering/Employee.java,d\7\d7b7d4015649c3663e65b199d743b0ebf7e58a14
 T
 $src/main/java/lambda/Calculator.java,6\2\625fd1896424b0b15f4a9209971af152b2d42882
+Y
+)src/main/java/lambda/LambdaScopeTest.java,d\2\d2bb4a609d9097f0f692cef70c201a4543dd5900
+T
+$src/main/java/lambda/RosterTest.java,c\5\c5cc21e367c786323396ec0a98469b18fc245b74
+P
+ src/main/java/lambda/Person.java,4\5\454919477ba96857a4cc177385c67fe6fbfc8997
