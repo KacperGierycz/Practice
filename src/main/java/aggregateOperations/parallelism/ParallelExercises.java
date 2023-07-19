@@ -1,17 +1,15 @@
-package aggregateOperations;
+package aggregateOperations.parallelism;
 
-import org.w3c.dom.ls.LSOutput;
+import methodReference.Person;
 
 import java.util.List;
 
-public class ParallelStreams{
+public class ParallelExercises {
 
     public static void main(String[] args) {
 
         List<Person> roster = Person.createRoster();
 
-        // First use of parallel stream with parallelStream()
-        System.out.println("Average with average()");
         double average = roster
                 .parallelStream()
                 .filter(p -> p.getGender() == Person.Sex.MALE)
@@ -20,7 +18,6 @@ public class ParallelStreams{
                 .getAsDouble();
 
         System.out.println(average);
-
 
     }
 
