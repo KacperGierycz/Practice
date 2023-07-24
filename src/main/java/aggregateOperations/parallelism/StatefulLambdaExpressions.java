@@ -24,12 +24,12 @@ public class StatefulLambdaExpressions {
                 })
 
                 .forEachOrdered(e -> System.out.print(e + " "));
-        System.out.println("");
+        System.out.println();
 
         serialStorage
                 .stream()
                 .forEachOrdered(e -> System.out.print(e + " "));
-        System.out.println("");
+        System.out.println();
 
         System.out.println("Parallel stream:");
         List<Integer> parallelStorage = Collections.synchronizedList(
@@ -44,12 +44,12 @@ public class StatefulLambdaExpressions {
                 })
 
                 .forEachOrdered(e -> System.out.print(e + " "));
-        System.out.println("");
+        System.out.println();
 
         parallelStorage
                 .stream()
                 .forEachOrdered(e -> System.out.print(e + " "));
-        System.out.println("");
+        System.out.println();
 
     }
 }

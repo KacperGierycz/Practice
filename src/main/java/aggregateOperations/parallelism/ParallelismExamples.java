@@ -126,7 +126,7 @@ public class ParallelismExamples {
         listOfIntegers
                 .stream()
                 .forEach(e -> System.out.print(e + " "));
-        System.out.println("");
+        System.out.println();
 
         System.out.println("listOfIntegers sorted in reverse order:");
         Comparator<Integer> normal = Integer::compare;
@@ -135,25 +135,25 @@ public class ParallelismExamples {
         listOfIntegers
                 .stream()
                 .forEach(e -> System.out.print(e + " "));
-        System.out.println("");
+        System.out.println();
 
         System.out.println("Parallel stream");
         listOfIntegers
                 .parallelStream()
                 .forEach(e -> System.out.print(e + " "));
-        System.out.println("");
+        System.out.println();
 
         System.out.println("Another parallel stream:");
         listOfIntegers
                 .parallelStream()
                 .forEach(e -> System.out.print(e + " "));
-        System.out.println("");
+        System.out.println();
 
         System.out.println("With forEachOrdered:");
         listOfIntegers
                 .parallelStream()
                 .forEachOrdered(e -> System.out.print(e + " "));
-        System.out.println("");
+        System.out.println();
 
         // 4. Example of interference
 
@@ -177,7 +177,7 @@ public class ParallelismExamples {
             System.out.println("Concatenated string: " + concatenatedString);
 
         } catch (Exception e) {
-            System.out.println("Exception caught: " + e.toString());
+            System.out.println("Exception caught: " + e);
         }
 
         // 5. Stateful lambda expressions examples
@@ -192,12 +192,12 @@ public class ParallelismExamples {
                 .map(e -> { serialStorage.add(e); return e; })
 
                 .forEachOrdered(e -> System.out.print(e + " "));
-        System.out.println("");
+        System.out.println();
 
         serialStorage
                 .stream()
                 .forEachOrdered(e -> System.out.print(e + " "));
-        System.out.println("");
+        System.out.println();
 
         System.out.println("Parallel stream:");
         List<Integer> parallelStorage = Collections.synchronizedList(
@@ -209,11 +209,11 @@ public class ParallelismExamples {
                 .map(e -> { parallelStorage.add(e); return e; })
 
                 .forEachOrdered(e -> System.out.print(e + " "));
-        System.out.println("");
+        System.out.println();
 
         parallelStorage
                 .stream()
                 .forEachOrdered(e -> System.out.print(e + " "));
-        System.out.println("");
+        System.out.println();
     }
 }

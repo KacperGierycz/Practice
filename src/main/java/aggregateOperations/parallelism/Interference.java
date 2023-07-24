@@ -42,7 +42,7 @@ public class Interference {
             System.out.println("Concatenated string: " + concatenatedString);
 
         } catch (Exception e) {
-            System.out.println("Exception caught: " + e.toString());
+            System.out.println("Exception caught: " + e);
         }
 
     }

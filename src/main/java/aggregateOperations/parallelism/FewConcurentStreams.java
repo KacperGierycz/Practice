@@ -13,7 +13,7 @@ public class FewConcurentStreams {
         listOfIntegers
                 .stream()
                 .forEach(e -> System.out.print(e + " "));
-        System.out.println("");
+        System.out.println();
 
         System.out.println("listOfIntegers sorted in reverse order:");
         Comparator<Integer> normal = Integer::compare;
@@ -22,24 +22,24 @@ public class FewConcurentStreams {
         listOfIntegers
                 .stream()
                 .forEach(e -> System.out.print(e + " "));
-        System.out.println("");
+        System.out.println();
 
         System.out.println("Parallel stream");
         listOfIntegers
                 .parallelStream()
                 .forEach(e -> System.out.print(e + " "));
-        System.out.println("");
+        System.out.println();
 
         System.out.println("Another parallel stream:");
         listOfIntegers
                 .parallelStream()
                 .forEach(e -> System.out.print(e + " "));
-        System.out.println("");
+        System.out.println();
 
         System.out.println("With forEachOrdered:");
         listOfIntegers
                 .parallelStream()
                 .forEachOrdered(e -> System.out.print(e + " "));
-        System.out.println("");
+        System.out.println();
     }
 }
