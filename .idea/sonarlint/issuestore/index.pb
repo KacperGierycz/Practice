@@ -504,8 +504,6 @@ T
 $src/main/java/lambda/RosterTest.java,c\5\c5cc21e367c786323396ec0a98469b18fc245b74
 P
  src/main/java/lambda/Person.java,4\5\454919477ba96857a4cc177385c67fe6fbfc8997
-]
--src/main/java/aggregateOperations/Person.java,d\0\d0bdc06d6092eeefae4136048a84f82e88554fc2
 c
 3src/main/java/aggregateOperations/PersonRunner.java,2\8\28fd05c768a825d5b016b6898e6342175109ce0e
 ^
@@ -514,7 +512,5 @@ c
 0src/main/java/aggregateOperations/Reduction.java,a\c\ac230a445c7de5810669a2f9d43272906e6b88f1
 _
 /src/main/java/aggregateOperations/Averager.java,3\4\3424f475e05625db9c3f996e398381be69ec42fd
-h
-8src/main/java/aggregateOperations/ReductionExamples.java,8\f\8f6dd64a24f72f9dc4bbc5549c2c4d0aa8d74acf
 c
 3src/main/java/aggregateOperations/CollectorsTo.java,3\9\39756be961135a4686d7d1c1ab907fe237e9c983
