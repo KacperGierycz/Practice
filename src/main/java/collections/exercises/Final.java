@@ -8,13 +8,11 @@ import java.util.Random;
 
 public class Final {
 
-    //helper methods with one think to do
-    //1 read the file
-    //2
 
     public static void main(String[] args)  {
         System.out.println("Specify path to the file in first arg... and number of lines to read in second.");
-// C:\\MyPlugin\\Practice\\FinalCollectionImplementation.txt
+        // Path for java to run from command line
+        // C:\\MyPlugin\\Practice\\FinalCollectionImplementation.txt
         Path path = null;
         if(args.length>0) {
 
@@ -47,12 +45,13 @@ public class Final {
 
         Integer numberOfDisplays = Integer.valueOf(args[1]);
         System.out.println(numberOfDisplays);
-
         ArrayList<Integer> linesToDisplay = new ArrayList<>();
         Random random = new Random();
         for( int i = 0; i<numberOfDisplays; i++){
             int randomNumberOfLineToPrint = random.nextInt(fileIntoList.size());
     //        System.out.println(randomNumberOfLineToPrint);
+            // The Oracle solution made next random better with r.nextInt I suppose it does not repeat numbers
+            // Nope the Oracle solution works in the same manner it can get same random number again.
             System.out.println(fileIntoList.get(randomNumberOfLineToPrint));
 
         }
