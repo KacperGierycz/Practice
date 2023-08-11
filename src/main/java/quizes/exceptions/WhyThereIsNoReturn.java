@@ -19,6 +19,7 @@ public class WhyThereIsNoReturn {
         finally
         {
             i = i + 3;
+       //     return i;
         }
 
         System.out.println(i);
