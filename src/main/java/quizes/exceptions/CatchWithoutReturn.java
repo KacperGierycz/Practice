@@ -25,6 +25,7 @@ public class CatchWithoutReturn {
                 System.out.println(s);
             }
 
+
         }
 
         public static void main(String[] args)
