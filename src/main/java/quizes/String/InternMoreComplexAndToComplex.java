@@ -18,6 +18,9 @@ public class InternMoreComplexAndToComplex {
         System.out.println(s1.intern() == s2.intern());
 
         System.out.println(s1.intern() == s2);
+
+        System.out.println(s1.join(s2));
+
     }
 
         }
