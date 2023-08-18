@@ -4,7 +4,7 @@ public class Chars {
 
     public static void main(String[] args)
     {
-        "ABC123abc".chars().forEach(System.out::println);
+        "ABC123abc".chars().forEach(e -> System.out.println(Character.toChars(e)));
     }
 
 }
