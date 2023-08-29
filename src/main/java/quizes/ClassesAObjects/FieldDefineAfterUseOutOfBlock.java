@@ -8,8 +8,11 @@ public class FieldDefineAfterUseOutOfBlock {
         System.out.println(ii);
     }
 
+
+    static
     {
-        System.out.println(ii);
+        i = 20;
+       // System.out.println(i);
     }
 
     static int i = 10;
