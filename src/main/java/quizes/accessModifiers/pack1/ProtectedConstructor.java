@@ -6,6 +6,10 @@ public class ProtectedConstructor {
 
     }
 
+    protected ProtectedConstructor(int i){
+        System.out.println(i);
+    }
+
     ProtectedConstructor protectedConstructor = new ProtectedConstructor();
 
 }
