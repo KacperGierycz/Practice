@@ -1,6 +1,6 @@
 package quizes.nestedClasses;
 
-public class AbstractClassInstanceImplemented {
+abstract class AbstractClassInstanceImplemented {
 
     {
         System.out.println(1);
