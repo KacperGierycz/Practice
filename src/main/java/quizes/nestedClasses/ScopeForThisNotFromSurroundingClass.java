@@ -15,7 +15,7 @@ public class ScopeForThisNotFromSurroundingClass {
 
         class XYZ
         {
-            int i = this.i;
+            int i = ScopeForThisNotFromSurroundingClass.this.i;
 
             {
                 i++;
