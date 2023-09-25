@@ -2,9 +2,11 @@ package quizes.inheritance;
 
 public class MainClass {
     public static void main(String[] args) {
-        InheritedFields2 n = new InheritedFields2(26);
+      //  InheritedFields2 n = new InheritedFields2(26);
 
-        System.out.println(n.i);
+     //   System.out.println(n.i);
+
+        InheritedFields1 one = new InheritedFields2(90);
 
     }
 }
