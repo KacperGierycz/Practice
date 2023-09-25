@@ -10,5 +10,8 @@ public class MainClassInstanceOfParentHoldingDescendantAndOverridingItsOwnMethod
         one = new InstanceOfParentHoldingDescendantAndOverridingItsOwnMethods.InnerClassTwo();
 
         System.out.println(one.getI());
+
+
+
     }
 }
