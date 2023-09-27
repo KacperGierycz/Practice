@@ -1,9 +1,7 @@
 package quizes.MethodOverloadingAndOverriding;
 
-public @interface MethodKeepsCallingItself {
+public class MethodKeepsCallingItself {
 
-    public class MainClass
-    {
         double overloadedMethod(double d)
         {
             return d *= d;
@@ -21,10 +19,10 @@ public @interface MethodKeepsCallingItself {
 
         public static void main(String[] args)
         {
-            MainClass main = new MainClass();
+            MethodKeepsCallingItself main = new MethodKeepsCallingItself();
 
             System.out.println(main.overloadedMethod(100));
         }
-    }
+
 
 }
