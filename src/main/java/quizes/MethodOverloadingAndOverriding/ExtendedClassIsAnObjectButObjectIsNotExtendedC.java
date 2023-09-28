@@ -56,11 +56,13 @@ public class ExtendedClassIsAnObjectButObjectIsNotExtendedC {
 
         X x = new ExtendedClassIsAnObjectButObjectIsNotExtendedC(). new Y();
         X xx = new ExtendedClassIsAnObjectButObjectIsNotExtendedC().new X();
+        Y yyy = new ExtendedClassIsAnObjectButObjectIsNotExtendedC().new Y();
 
         xx.calculate(10,20);
         x.calculate(10, 20);
         System.out.println(x.i);
         System.out.println(xx.i);
+        System.out.println(yyy.i);
         Y y = (Y) x;
         Y yy = (Y) xx;
 
