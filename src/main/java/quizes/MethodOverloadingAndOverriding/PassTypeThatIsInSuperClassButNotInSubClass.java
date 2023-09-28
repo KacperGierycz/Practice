@@ -16,6 +16,19 @@ public class PassTypeThatIsInSuperClassButNotInSubClass {
         {
             System.out.println("From Sub Class");
         }
+
+        int superClassMethod(Float f)
+        {
+            System.out.println("From Sub Class");
+            return 10;
+        }
+
+//        int superClassMethod(float f)
+//        {
+//            System.out.println("From Sub Class");
+//            return 10;
+//        }
+
     }
 
     public class MainClass
@@ -31,8 +44,11 @@ public class PassTypeThatIsInSuperClassButNotInSubClass {
     public static void main(String[] args) {
         SubClass sub =new PassTypeThatIsInSuperClassButNotInSubClass(). new SubClass();
 
+        int i = 10;
+
         sub.superClassMethod(123321.00);
-        sub.superClassMethod(123321);
+        sub.superClassMethod( i );
+        sub.superClassMethod(123321f);
 
 
     }
