@@ -31,8 +31,9 @@ public class WhenThereIsNoArgumentsButMethodOverride {
     public static void main(String[] args)
     {
         A a = new WhenThereIsNoArgumentsButMethodOverride(). new B();
-
+        B b = new WhenThereIsNoArgumentsButMethodOverride(). new B();
         a.methodOne();
+        b.methodOne();
     }
 
 }
