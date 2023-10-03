@@ -8,8 +8,8 @@ public class IncrementationInTryCatchFinally {
 
         try
         {
-            i = i + 1;
-
+            i++;
+            System.out.println("message from try before return");
             return i;
         }
         catch (Exception e)
