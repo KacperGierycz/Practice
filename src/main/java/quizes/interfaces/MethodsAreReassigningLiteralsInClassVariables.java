@@ -17,7 +17,12 @@ public class MethodsAreReassigningLiteralsInClassVariables {
         int methodC();
     }
 
-    class D implements A, B, C
+    interface E
+    {
+        int methodE(int l);
+    }
+
+    class D implements A, B, C, E
     {
         int i = 999+111;
 
@@ -41,6 +46,13 @@ public class MethodsAreReassigningLiteralsInClassVariables {
 
             return i;
         }
+
+
+        @Override
+        public int methodE(int l) {
+            int j =- l;
+            return j;
+        }
     }
 
     public class MainClass
@@ -59,6 +71,9 @@ public class MethodsAreReassigningLiteralsInClassVariables {
         System.out.println(d.methodB());
 
         System.out.println(d.methodC());
+
+        System.out.println(d.methodE(-10));
+
     }
 
 }
