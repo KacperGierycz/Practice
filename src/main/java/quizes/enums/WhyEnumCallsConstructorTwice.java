@@ -14,6 +14,8 @@ public class WhyEnumCallsConstructorTwice {
         {
             TWO;
 
+            int i;
+
             {
                 System.out.println("TWO");
             }
@@ -38,6 +40,9 @@ public class WhyEnumCallsConstructorTwice {
             System.out.println(EnumOne.EnumTwo.EnumThree.THREE);
 
             System.out.println(EnumOne.EnumTwo.TWO);
+
+            System.out.println(EnumOne.EnumTwo.TWO.i);
+
 
             System.out.println(EnumOne.ONE);
 
