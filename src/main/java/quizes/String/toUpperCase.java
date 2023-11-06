@@ -13,6 +13,8 @@ public class toUpperCase {
             System.out.println(false + "string".toUpperCase());
         }
 
+        System.out.println("STRING".toLowerCase() == "STRING".toLowerCase());
+
         System.out.println("string".toUpperCase() == "STRING");
 
     }
