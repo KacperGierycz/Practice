@@ -3,13 +3,19 @@ package quizes.threads;
 public class WhyThereIsNoPrintOnInterrupt {
 
 
-        public static void main(String[] args)
-        {
+        public static void main(String[] args) throws InterruptedException {
             Thread t3 = new Thread()
             {
                 @Override
                 public void run()
                 {
+                    try {
+                        System.out.println("going to sleep");
+                        Thread.sleep(3000);
+                        System.out.println("wake up ");
+                    } catch (InterruptedException e) {
+                        throw new RuntimeException(e);
+                    }
                     System.out.println(3);
 
                 }
@@ -22,8 +28,9 @@ public class WhyThereIsNoPrintOnInterrupt {
                 {
                     try
                     {
+
                         t3.join();
-                        t3.interrupt();
+                        Thread.sleep(2000);
                     }
                     catch (InterruptedException e)
                     {
@@ -42,6 +49,7 @@ public class WhyThereIsNoPrintOnInterrupt {
                     try
                     {
                         t2.join();
+                        Thread.sleep(2000);
                     }
                     catch (InterruptedException e)
                     {
@@ -53,12 +61,8 @@ public class WhyThereIsNoPrintOnInterrupt {
             };
 
             t1.start();
-//            t1.interrupt();
             t2.start();
-//            t2.interrupt();
-
             t3.start();
-            t3.interrupt();
 
         }
 
