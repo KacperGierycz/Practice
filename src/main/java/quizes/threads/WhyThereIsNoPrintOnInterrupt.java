@@ -11,7 +11,7 @@ public class WhyThereIsNoPrintOnInterrupt {
                 {
                     try {
                         System.out.println("going to sleep");
-                        Thread.sleep(3000);
+                        Thread.sleep(2000);
                         System.out.println("wake up ");
                     } catch (InterruptedException e) {
                         throw new RuntimeException(e);
