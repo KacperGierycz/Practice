@@ -16,17 +16,17 @@ public class WaitNotifyAllAndPriority {
                     anyClass.methodOne();
                 }
             };
-            t1.setPriority(Thread.MIN_PRIORITY);
+            t1.setPriority(3);
             t1.start();
 
-//            try
-//            {
-//                Thread.sleep(1000);
-//            }
-//            catch (InterruptedException e)
-//            {
-//                e.printStackTrace();
-//            }
+            try
+            {
+                Thread.sleep(1000);
+            }
+            catch (InterruptedException e)
+            {
+                e.printStackTrace();
+            }
             System.out.println(3);
             Thread t2 = new Thread("Thread_2")
             {
@@ -37,17 +37,17 @@ public class WaitNotifyAllAndPriority {
                     anyClass.methodOne();
                 }
             };
-            t2.setPriority(Thread.MAX_PRIORITY);
+            t2.setPriority(7);
             t2.start();
 
-//            try
-//            {
-//                Thread.sleep(1000);
-//            }
-//            catch (InterruptedException e)
-//            {
-//                e.printStackTrace();
-//            }
+            try
+            {
+                Thread.sleep(1000);
+            }
+            catch (InterruptedException e)
+            {
+                e.printStackTrace();
+            }
 
             Thread t3 = new Thread("Thread_3")
             {
