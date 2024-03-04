@@ -4,7 +4,7 @@ public class printOnSubtraction {
 
         int k = 5;
         public boolean checkIt(int k) {
-            return k-- > 0 ? true : false;
+            return k-- > 0 ? true : false; // this is a shadowing
         }
         public void printThem() {
             while (checkIt(k)) {
